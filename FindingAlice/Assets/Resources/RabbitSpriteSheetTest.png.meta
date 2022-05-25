@@ -1,0 +1,1244 @@
+fileFormatVersion: 2
+guid: 5fa360b0b5dc4ee42a279f071eb2a5aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7047022319265097778
+    second: RabbitSpriteSheetTest_0
+  - first:
+      213: 8011091963502139641
+    second: RabbitSpriteSheetTest_1
+  - first:
+      213: -4941954847168998434
+    second: RabbitSpriteSheetTest_2
+  - first:
+      213: 7796770162567005130
+    second: RabbitSpriteSheetTest_3
+  - first:
+      213: 988139890990857651
+    second: RabbitSpriteSheetTest_4
+  - first:
+      213: -6772858874682229760
+    second: RabbitSpriteSheetTest_5
+  - first:
+      213: -596881789715195672
+    second: RabbitSpriteSheetTest_6
+  - first:
+      213: -9019829926479764969
+    second: RabbitSpriteSheetTest_7
+  - first:
+      213: 3531506792117772613
+    second: RabbitSpriteSheetTest_8
+  - first:
+      213: -7548040287241402085
+    second: RabbitSpriteSheetTest_9
+  - first:
+      213: 2277266887044132150
+    second: RabbitSpriteSheetTest_10
+  - first:
+      213: 7681987420465347249
+    second: RabbitSpriteSheetTest_11
+  - first:
+      213: -3175104360132472734
+    second: RabbitSpriteSheetTest_12
+  - first:
+      213: 886526532842382365
+    second: RabbitSpriteSheetTest_13
+  - first:
+      213: 6271001671065198126
+    second: RabbitSpriteSheetTest_14
+  - first:
+      213: -6313566678087911919
+    second: RabbitSpriteSheetTest_15
+  - first:
+      213: -3477623745495462847
+    second: RabbitSpriteSheetTest_16
+  - first:
+      213: 7313994733748308622
+    second: RabbitSpriteSheetTest_17
+  - first:
+      213: -7835787463303655624
+    second: RabbitSpriteSheetTest_18
+  - first:
+      213: 4009643678578794356
+    second: RabbitSpriteSheetTest_19
+  - first:
+      213: 8185973182575042031
+    second: RabbitSpriteSheetTest_20
+  - first:
+      213: 2288323625440743586
+    second: RabbitSpriteSheetTest_21
+  - first:
+      213: 7624995649680586861
+    second: RabbitSpriteSheetTest_22
+  - first:
+      213: -1765559023154398619
+    second: RabbitSpriteSheetTest_23
+  - first:
+      213: -8016636398717848572
+    second: RabbitSpriteSheetTest_24
+  - first:
+      213: 3645991961255716234
+    second: RabbitSpriteSheetTest_25
+  - first:
+      213: -1382922011670602710
+    second: RabbitSpriteSheetTest_26
+  - first:
+      213: -6618593084106391993
+    second: RabbitSpriteSheetTest_27
+  - first:
+      213: -1941828267650651063
+    second: RabbitSpriteSheetTest_28
+  - first:
+      213: -8712718151631054579
+    second: RabbitSpriteSheetTest_29
+  - first:
+      213: -8834784467419785302
+    second: RabbitSpriteSheetTest_30
+  - first:
+      213: -7589261665775614423
+    second: RabbitSpriteSheetTest_31
+  - first:
+      213: 3576116226837582087
+    second: RabbitSpriteSheetTest_32
+  - first:
+      213: 4154713522080342537
+    second: RabbitSpriteSheetTest_33
+  - first:
+      213: 1870813069525738015
+    second: RabbitSpriteSheetTest_34
+  - first:
+      213: 2156236357709224761
+    second: RabbitSpriteSheetTest_35
+  - first:
+      213: -8710601249806832864
+    second: RabbitSpriteSheetTest_36
+  - first:
+      213: 2389609743713298020
+    second: RabbitSpriteSheetTest_37
+  - first:
+      213: 5677629181859127075
+    second: RabbitSpriteSheetTest_38
+  - first:
+      213: -639719080024964723
+    second: RabbitSpriteSheetTest_39
+  - first:
+      213: -8711335214026015566
+    second: RabbitSpriteSheetTest_40
+  - first:
+      213: 6254313724707507341
+    second: RabbitSpriteSheetTest_41
+  - first:
+      213: 891387048288751766
+    second: RabbitSpriteSheetTest_42
+  - first:
+      213: 142159313975944529
+    second: RabbitSpriteSheetTest_43
+  - first:
+      213: 240118906210389834
+    second: RabbitSpriteSheetTest_44
+  - first:
+      213: 4300071891598728915
+    second: RabbitSpriteSheetTest_45
+  - first:
+      213: 8961677507193330475
+    second: RabbitSpriteSheetTest_46
+  - first:
+      213: -7283631213345543353
+    second: RabbitSpriteSheetTest_47
+  - first:
+      213: -3711920729707128411
+    second: RabbitSpriteSheetTest_48
+  - first:
+      213: 201063515445069000
+    second: RabbitSpriteSheetTest_49
+  - first:
+      213: -3836332487106531549
+    second: RabbitSpriteSheetTest_50
+  - first:
+      213: -754961718909342230
+    second: RabbitSpriteSheetTest_51
+  - first:
+      213: -8935025029726186585
+    second: RabbitSpriteSheetTest_52
+  - first:
+      213: 5183790623185179062
+    second: RabbitSpriteSheetTest_53
+  - first:
+      213: -5379335849526982040
+    second: RabbitSpriteSheetTest_54
+  - first:
+      213: 782640019619937522
+    second: RabbitSpriteSheetTest_55
+  - first:
+      213: 85878265186273157
+    second: RabbitSpriteSheetTest_56
+  - first:
+      213: 7083992345692358840
+    second: RabbitSpriteSheetTest_57
+  - first:
+      213: -6853099941775145830
+    second: RabbitSpriteSheetTest_58
+  - first:
+      213: 46677357319879606
+    second: RabbitSpriteSheetTest_59
+  - first:
+      213: -4732084050776454416
+    second: RabbitSpriteSheetTest_60
+  - first:
+      213: 8898309551019410734
+    second: RabbitSpriteSheetTest_61
+  - first:
+      213: -4507197297063766016
+    second: RabbitSpriteSheetTest_62
+  - first:
+      213: 3801635268637738572
+    second: RabbitSpriteSheetTest_63
+  - first:
+      213: 7771766080852199188
+    second: RabbitSpriteSheetTest_64
+  - first:
+      213: -1188670494063842135
+    second: RabbitSpriteSheetTest_65
+  - first:
+      213: 3926437224983794072
+    second: RabbitSpriteSheetTest_66
+  - first:
+      213: -549052765030242929
+    second: RabbitSpriteSheetTest_67
+  - first:
+      213: 5705750695401049193
+    second: RabbitSpriteSheetTest_68
+  - first:
+      213: -413473036333416082
+    second: RabbitSpriteSheetTest_69
+  - first:
+      213: 4379489034880441937
+    second: RabbitSpriteSheetTest_70
+  - first:
+      213: -2605909903276384073
+    second: RabbitSpriteSheetTest_71
+  - first:
+      213: -8300517196884259262
+    second: RabbitSpriteSheetTest_72
+  - first:
+      213: 3400229910878441496
+    second: RabbitSpriteSheetTest_73
+  - first:
+      213: -5596828220076030074
+    second: RabbitSpriteSheetTest_74
+  - first:
+      213: -3363263893252019657
+    second: RabbitSpriteSheetTest_75
+  - first:
+      213: -7490417034182132134
+    second: RabbitSpriteSheetTest_76
+  - first:
+      213: 7896922305908810703
+    second: RabbitSpriteSheetTest_77
+  - first:
+      213: 2376482187739156424
+    second: RabbitSpriteSheetTest_78
+  - first:
+      213: -209740581585881134
+    second: RabbitSpriteSheetTest_79
+  - first:
+      213: -6673911075413762743
+    second: RabbitSpriteSheetTest_80
+  - first:
+      213: 4272371113330009558
+    second: RabbitSpriteSheetTest_81
+  - first:
+      213: 2615919139240771214
+    second: RabbitSpriteSheetTest_82
+  - first:
+      213: -6601615089782376330
+    second: RabbitSpriteSheetTest_83
+  - first:
+      213: 2977787858333321492
+    second: RabbitSpriteSheetTest_84
+  - first:
+      213: 4439691198125065136
+    second: RabbitSpriteSheetTest_85
+  - first:
+      213: 3830486431088764847
+    second: RabbitSpriteSheetTest_86
+  - first:
+      213: 6989836765940537908
+    second: RabbitSpriteSheetTest_87
+  - first:
+      213: 4735726019426464317
+    second: RabbitSpriteSheetTest_88
+  - first:
+      213: 7244834192465360335
+    second: RabbitSpriteSheetTest_89
+  - first:
+      213: -3703973394544518857
+    second: RabbitSpriteSheetTest_90
+  - first:
+      213: 8218532039185904335
+    second: RabbitSpriteSheetTest_91
+  - first:
+      213: -313691146807933727
+    second: RabbitSpriteSheetTest_92
+  - first:
+      213: -3515976474851766838
+    second: RabbitSpriteSheetTest_93
+  - first:
+      213: 3789680326637605476
+    second: RabbitSpriteSheetTest_94
+  - first:
+      213: -2776513937007783757
+    second: RabbitSpriteSheetTest_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3839.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec754ff8982f33e90800000000000000
+      internalID: -7047022319265097778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_1
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3839.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8188b32bd1d2f60800000000000000
+      internalID: 8011091963502139641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_2
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3839.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3d8760046aa6bb0800000000000000
+      internalID: -4941954847168998434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_3
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 3839.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3cb2f5721b33c60800000000000000
+      internalID: 7796770162567005130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_4
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3839.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd37e6def396bd00800000000000000
+      internalID: 988139890990857651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_5
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 3839.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cb6b4dcb8f102a0800000000000000
+      internalID: -6772858874682229760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_6
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3839.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e85027bc2377b7f0800000000000000
+      internalID: -596881789715195672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_7
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 3839.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7126cb1987023d280800000000000000
+      internalID: -9019829926479764969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_8
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 3839.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5412f0a77be620130800000000000000
+      internalID: 3531506792117772613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1983a89959ff3790800000000000000
+      internalID: -7548040287241402085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3072.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d66051b2a7a9f10800000000000000
+      internalID: 2277266887044132150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_11
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3072.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba3bd5abd6eb9a60800000000000000
+      internalID: 7681987420465347249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_12
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 3072.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26092892863cfe3d0800000000000000
+      internalID: -3175104360132472734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_13
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3072.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1467024f239d4c00800000000000000
+      internalID: 886526532842382365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_14
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 3072.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ed8bd6bc2170750800000000000000
+      internalID: 6271001671065198126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_15
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3072.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116b3d69e84b168a0800000000000000
+      internalID: -6313566678087911919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_16
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 3072.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c8743f0affcbfc0800000000000000
+      internalID: -3477623745495462847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_17
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 3072.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a452a8577808560800000000000000
+      internalID: 7313994733748308622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2305.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f835261d0b14390800000000000000
+      internalID: -7835787463303655624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_19
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2305.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f54918ead15a730800000000000000
+      internalID: 4009643678578794356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_20
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2305.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed52480d3b6a9170800000000000000
+      internalID: 8185973182575042031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_21
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2305.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a097899632c1cf10800000000000000
+      internalID: 2288323625440743586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_22
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2305.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d683c19f42d61d960800000000000000
+      internalID: 7624995649680586861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_23
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 2305.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a75ea3c697f77e0800000000000000
+      internalID: -1765559023154398619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_24
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2305.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404b4f85baf2fb090800000000000000
+      internalID: -8016636398717848572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_25
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 2305.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85a3981f5a299230800000000000000
+      internalID: 3645991961255716234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1538.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c1e46e1cfdecce0800000000000000
+      internalID: -1382922011670602710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_27
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1538.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e3bf428a80624a0800000000000000
+      internalID: -6618593084106391993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_28
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1538.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ceed39a7d3d05e0800000000000000
+      internalID: -1941828267650651063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_29
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1538.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09dee7c005361780800000000000000
+      internalID: -8712718151631054579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_30
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1538.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa71e48e55a846580800000000000000
+      internalID: -8834784467419785302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 771.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92684ff79b68da690800000000000000
+      internalID: -7589261665775614423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_32
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 771.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7011a20e2cae0a130800000000000000
+      internalID: 3576116226837582087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_33
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 771.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9026c1b8fe188a930800000000000000
+      internalID: 4154713522080342537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_34
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 771.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f126d32239676f910800000000000000
+      internalID: 1870813069525738015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_35
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 771.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b5a090b8d7ced10800000000000000
+      internalID: 2156236357709224761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_36
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 771.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ba035605abd1780800000000000000
+      internalID: -8710601249806832864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_37
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 771.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466e7d5b669992120800000000000000
+      internalID: 2389609743713298020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_38
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 771.1667
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fda17d8adface40800000000000000
+      internalID: 5677629181859127075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RabbitSpriteSheetTest_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4.166687
+        width: 510
+        height: 767.8333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d818217d2e24f17f0800000000000000
+      internalID: -639719080024964723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

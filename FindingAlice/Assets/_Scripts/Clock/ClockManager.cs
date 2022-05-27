@@ -5,11 +5,7 @@ using UnityEngine;
 public class ClockManager : MonoBehaviour
 {
     public static ClockManager C;
-    private void Awake()
-    {
-        if (C == null) C = this;
-        else if (C != this) Destroy(gameObject);
-    }
+
 
     [Header("Value")]
     [SerializeField] float clockSpeed = 200f;
@@ -35,10 +31,20 @@ public class ClockManager : MonoBehaviour
     //lever의 transform 저장 벡터
     Vector3 dir;
 
+    //test
+    private Animator anim;    
+
     public bool isPressKeyClock
     {
         get { return _isPressKeyClock; }
         set { _isPressKeyClock = value; }
+    }
+
+    private void Awake()
+    {
+        if (C == null) C = this;
+        else if (C != this) Destroy(gameObject);
+        anim = GameObject.FindWithTag("Player").GetComponent<Animator>();
     }
 
     private void Start()
@@ -53,6 +59,8 @@ public class ClockManager : MonoBehaviour
         //X를 눌렀을 때 시간 느리게 만들고 Clock 활성화
         if (Input.GetKeyDown(KeyCode.X) && checkClockUse && Time.time - clockEndTime > clockCooldown)
         {
+            anim.SetTrigger("isClock");
+
             checkClockUse = false;
             clockStartTime = Time.time;
             Time.timeScale = timeScaleValue;
@@ -96,6 +104,7 @@ public class ClockManager : MonoBehaviour
             rb.velocity = Vector3.zero;
 
             //화면에 시계가 존재할 때 캐릭터의 속도를 0으로 초기화, 시계의 방향으로 캐릭터 이동
+            anim.SetTrigger("isRolling");
             rb.AddForce((clock.transform.position - player.transform.position).normalized * 
                 (10 + Mathf.Pow(Vector3.Distance(clock.transform.position, player.transform.position) / 3, 2)), ForceMode.Impulse);
         }

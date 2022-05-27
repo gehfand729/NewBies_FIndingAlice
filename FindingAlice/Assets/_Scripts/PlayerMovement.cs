@@ -24,6 +24,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void Awake(){
         playerAnim = this.GetComponent<Animator>();
+        
     }
 
     private void Start(){
@@ -43,10 +44,16 @@ public class PlayerMovement : MonoBehaviour
         {
             if (dir == 0) inputDir = Input.GetAxisRaw("Horizontal");
             else inputDir = dir;
-            moveDirX = new Vector3(inputDir, 0, 0).normalized;
 
-            playerAnim.SetBool("isWalk", true);
+            moveDirX = new Vector3(inputDir, 0, 0).normalized;
+            Debug.Log($"Current InputDir : {inputDir}");
+            Debug.Log("JoyStick Anim Test");
+
+            //test
             transform.position += moveDirX * speed * Time.deltaTime;
+            // playerRigidbody.velocity = moveDirX * speed;
+            playerAnim.SetBool("isWalk", inputDir != 0);
+
             if (inputDir == 0) {
                 playerAnim.SetBool("isWalk", false);
                 return;
